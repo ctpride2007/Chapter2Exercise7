@@ -25,6 +25,11 @@ int main()
 	cout << "The ocean level after 5 years will be " << levelafter5years << endl;
 	cout << "The ocean level after 7 years will be " << levelafter7years << endl;
 	cout << "The ocean level after 10 years will be " << levelafter10years << endl;
+	//Here I realized that I did too much, so my asssignment will have un-needed information.
+	cout << "The ocean level will be " << levelafter5years << "millimeters higher after 5 years." << endl;
+	cout << "The ocean level will be " << levelafter7years << "millimeters higher after 7 years." << endl;
+	cout << "The ocean level will be " << levelafter10years << "millimeters higher after 10 years." << endl;
+
 	return 1;
 }
 
